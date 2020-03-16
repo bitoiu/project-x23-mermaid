@@ -1,6 +1,6 @@
 # project-x23-mermaid
 
-``mermaid
+```mermaid
 graph TD;
     A-->B;
     A-->C;
